@@ -1,7 +1,7 @@
 # DKFreeJungle
-Repositório do projeto Freeway e DK FreeJungle
+Repositório do projeto Freeway e DK Free Jungle
 
-Donkey Kong FreeJungle
+Donkey Kong Free Jungle
 Este é um projeto de jogo inspirado nos clássicos Freeway e Donkey Kong, desenvolvido em linguagem JavaScript utilizando a biblioteca p5.js. O jogo se passa em uma selva e envolve um personagem que precisa evitar obstáculos enquanto coleta pontos.
 
 Execução: Abra o arquivo index.html com o Live Server em um navegador da web para jogar o Donkey Kong FreeJungle.
